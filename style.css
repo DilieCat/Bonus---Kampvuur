@@ -1,0 +1,13 @@
+div{
+	text-align: center;
+	  padding-top: 350px;
+	  font-family: myFirstFont;
+	  color: white;
+	  font-size: 50px;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(KaushanScript-Regular.otf);
+    font-weight: bold;
+}
